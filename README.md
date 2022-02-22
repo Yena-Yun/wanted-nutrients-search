@@ -74,7 +74,9 @@
 
 
 ## 🌠 리팩토링
-* utils의 constants, hooks 폴더를 이용하여 관심사 적절히 분리
+ ** 토스 프론트엔드 진유림 님의 영상을 보고 습득한 클린코드 개념을 적용 (영상출처: https://www.youtube.com/watch?v=edWbHp_k_9Y)<br/>
+  => 내 코드에서 '핵심 데이터'와 '세부 구현 코드'가 무엇인지 생각해보고 그 둘을 분리하려고 노력
+* utils의 constants, hooks 폴더를 이용하여 모여있던 관심사를 적절히 분리
 * 각 컴포넌트의 style을 개별 폴더에 분리하고 ```import * as S``` 구문으로 import하여 사용
 
 ## 🍒 설치 및 실행 방법
