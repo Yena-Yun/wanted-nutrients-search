@@ -3,10 +3,13 @@
 사용자 편의를 고려한 검색창 설계
 
 ## 🧪 개발기간 
-22.02.17 ~ 22.02.19
+22.02.17 ~ 22.02.19 (3일간)
 
 ## 🚅 배포링크
 ### https://nutri-search.herokuapp.com/
+
+## velog 정리글
+### [검색 자동완성 후기](https://velog.io/@yena1025/PreOnboarding6-%EA%B2%80%EC%83%89-%EC%9E%90%EB%8F%99%EC%99%84%EC%84%B1-%EA%B3%BC%EC%A0%9C-%ED%9B%84%EA%B8%B0) 🔔
 
 ## 🍱 구현 상세
 * 검색 자동완성 기능 구현
