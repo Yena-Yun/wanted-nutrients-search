@@ -64,15 +64,15 @@
 <img src="https://user-images.githubusercontent.com/68722179/154710937-530a2518-c111-4b7a-8de1-67a956272a87.png" width="400" />
 
 ### 해결 과정
-* 문제 인식: 폰트 파일 용량으로 인해 첫 로딩 속도가 느려지고 있었다. <br/>
+* 문제 인식: 폰트 파일 용량으로 인해 첫 로딩 속도가 느려지고 있었습니다. <br/>
 <div>
 <img src="https://user-images.githubusercontent.com/68722179/154712187-f3bc309c-256b-4960-ba3c-3e0488054ab2.png" width="500" />
  </div>
 <div>
  
-* 해결: 기존의 original 폰트를 '서브셋 폰트'(쓰지 않는 한글 조합이 제외된 폰트)로 바꿔주었다. <br/>
+* 해결: 기존의 original 폰트를 '서브셋 폰트'(쓰지 않는 한글 조합이 제외된 폰트)로 바꿔주었습니다. <br/>
  
-* 결과: Performance 점수가 **79점에서 96점**으로 상승하였다. <br/>
+* 결과: Performance 점수가 **79점에서 96점**으로 상승하였습니다. <br/>
 
 
 ## 🌠 리팩토링
