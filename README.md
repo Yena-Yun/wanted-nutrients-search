@@ -2,6 +2,8 @@
 ## 🧨 주제
 사용자 편의를 고려한 검색창 설계
 
+<img src="https://user-images.githubusercontent.com/68722179/157404819-715e926a-0f3b-4093-b192-a182a2e16b9b.png" width="500" />
+
 ## 🚅 배포링크
 ### https://nutri-search.herokuapp.com/
 
