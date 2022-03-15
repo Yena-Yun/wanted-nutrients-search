@@ -5,7 +5,7 @@
 ## 🚅 배포링크
 ### https://nutri-search.herokuapp.com/
 
-#### [velog 후기](https://velog.io/@yena1025/PreOnboarding6-%EA%B2%80%EC%83%89-%EC%9E%90%EB%8F%99%EC%99%84%EC%84%B1-%EA%B3%BC%EC%A0%9C-%ED%9B%84%EA%B8%B0) 🔔
+### [velog 과제 후기](https://velog.io/@yena1025/PreOnboarding6-%EA%B2%80%EC%83%89-%EC%9E%90%EB%8F%99%EC%99%84%EC%84%B1-%EA%B3%BC%EC%A0%9C-%ED%9B%84%EA%B8%B0) 🔔
 
 ## 🍱 구현 상세
 * 검색 자동완성 기능 구현
@@ -73,10 +73,11 @@
 
 
 ## 🌠 리팩토링
- ** 토스 프론트엔드 진유림 님의 영상을 보고 습득한 클린코드 개념을 적용 (영상출처: https://www.youtube.com/watch?v=edWbHp_k_9Y)<br/>
-  => 내 코드에서 '핵심 데이터'와 '세부 구현 코드'가 무엇인지 생각해보고 그 둘을 분리하려고 노력
-* utils의 constants, hooks 폴더를 이용하여 모여있던 관심사를 적절히 분리
-* 각 컴포넌트의 style을 개별 폴더에 분리하고 ```import * as S``` 구문으로 import하여 사용
+ 클린코드 관련 영상을 보고 (영상출처: https://www.youtube.com/watch?v=edWbHp_k_9Y)<br/>
+    영상에 나온 '**핵심 데이터**'와 '**세부 구현 코드**'라는 개념으로 기존 코드를 분류한 뒤 리팩토링 진행
+  ### 리팩토링 진행 내역
+ * utils의 constants, hooks 폴더에 본 컴포넌트에 뭉쳐있던 관심사들을 적절히 분리
+ * styled-components 코드도 컴포넌트의 동작을 파악하기 위한 핵심적인 데이터가 아니라고 판단, <br/> 개별 폴더에 분리한 뒤 ```import * as S``` 구문으로 가져옴
 
 ## 🍒 설치 및 실행 방법
 프로젝트 클론 - ```yarn install``` -  ```yarn dev``` 
